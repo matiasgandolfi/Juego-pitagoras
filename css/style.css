@@ -1,0 +1,16 @@
+body{
+    background: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    padding: 0px;
+}
+
+#map{
+    width: 400px;
+    height: 400px;
+
+}
